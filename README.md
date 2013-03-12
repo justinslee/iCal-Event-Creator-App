@@ -1,7 +1,7 @@
 iCal-Event-Creator-App 
 =====================
 
-Project developed to create iCal Events. 
+Original project developed to create iCal Events.
 Team Boynton: Justin Lee, Cheri Kau, Katie Konno, and Jenna Inouye
 
 Installation instructions:
